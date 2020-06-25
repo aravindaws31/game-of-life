@@ -66,7 +66,7 @@
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
         Life. The Game of Life is a cellular automaton devised by the great Indian
-        mathematician Aravindhan way back in 1990.</p>
+        Aravindhan way back in 2000.</p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
